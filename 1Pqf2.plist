@@ -29,7 +29,7 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>M2tuan.abcdefghijklmnopqrstuvwxyzQF2</string>
+               <string>M2tuan.abcdefghijklmnopqrstuvwxyzQF3</string>
                <key>bundle-version</key>
                <string>6.3.9.18</string>
                <key>kind</key>
@@ -37,7 +37,7 @@
                <key>subtitle</key>
                <string>售后微信duokai008</string>
                <key>title</key>
-               <string>微信清理2</string>
+               <string>微信清理3</string>
            </dict>
        </dict>
    </array>
